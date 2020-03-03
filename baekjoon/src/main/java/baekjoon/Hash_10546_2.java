@@ -22,8 +22,7 @@ public class Hash_10546_2 {
 			if(map.containsKey(key)) {
 				cnt = map.get(key) + 1;
 				map.put(key, cnt);
-			}
-			else {
+			} else {
 				map.put(key, 1);
 			}
 		}

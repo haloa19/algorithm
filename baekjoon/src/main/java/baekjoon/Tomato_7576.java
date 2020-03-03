@@ -13,6 +13,7 @@ class Pair4 {
 		this.y = y;
 	}
 }
+
 public class Tomato_7576 {
 	static final int[] dx = {1, -1, 0, 0};
 	static final int[] dy = {0, 0, 1, -1};

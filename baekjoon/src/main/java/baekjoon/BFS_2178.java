@@ -55,9 +55,11 @@ public class BFS_2178 {
 						chk[nx][ny] = true;
 
 					}
+					
 				}
 			
 			}
+			
 		}
 		
 		System.out.println(dist[n-1][m-1]);

@@ -22,10 +22,8 @@ public class Queue_2493 {
 		}
 		System.out.println(height);
 		
-		for(int i = 0; i < N; i++) {
-			
+		for(int i = 0; i < N; i++) {		
 			top[i] = Integer.parseInt(height.split(" ")[i]);
-			//top[i] = Integer.parseInt(bf.readLine());
 		}
 		
 		

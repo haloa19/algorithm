@@ -8,8 +8,6 @@ import java.util.HashMap;
 public class Hash_5052 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		// TODO Auto-generated method stub
-		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		HashMap<Integer, String> map = new HashMap<Integer, String>();
 		

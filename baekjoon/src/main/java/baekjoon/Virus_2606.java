@@ -30,8 +30,7 @@ public class Virus_2606 {
 	}
 
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
-		
+		Scanner scanner = new Scanner(System.in);		
 		int n = scanner.nextInt();
 		int m = scanner.nextInt();
 		a = new ArrayList[n + 1];

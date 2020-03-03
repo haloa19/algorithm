@@ -8,8 +8,6 @@ import java.util.StringTokenizer;
 public class Queue_13335 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
 		Scanner scanner = new Scanner(System.in);
 		Queue<Integer> bridge = new LinkedList<>();
 		//StringTokenizer st = new StringTokenizer(scanner.nextLine());

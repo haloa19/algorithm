@@ -24,8 +24,7 @@ public class Array1_3052 {
 				if(cnt_tmp == 0) {
 					cnt++;
 				}
-			}
-			else {
+			} else {
 				cnt++;
 			}
 			cnt_tmp = 0;

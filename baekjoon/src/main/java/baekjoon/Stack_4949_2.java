@@ -7,7 +7,6 @@ import java.util.Stack;
 public class Stack_4949_2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		
 		while (true) {

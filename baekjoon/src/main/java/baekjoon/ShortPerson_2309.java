@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class ShortPerson_2309 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		List<Integer> list = new ArrayList<Integer>();
 		int total = 0;

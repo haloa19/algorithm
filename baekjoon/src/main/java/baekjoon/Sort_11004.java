@@ -10,9 +10,6 @@ import java.util.StringTokenizer;
 public class Sort_11004 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		// TODO Auto-generated method stub
-		
-		//Scanner scanner = new Scanner(System.in);
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		String[] str = br.readLine().split(" ");

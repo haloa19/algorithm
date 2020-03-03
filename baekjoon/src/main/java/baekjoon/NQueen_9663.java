@@ -7,7 +7,6 @@ public class NQueen_9663 {
 	static int k;
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		n = 4;
 		k = 2;
 		

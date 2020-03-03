@@ -6,7 +6,6 @@ public class MadeOne_1463 {
 	public static int[] d;
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		int n = scanner.nextInt();
 		d = new int[n + 1];
@@ -18,7 +17,6 @@ public class MadeOne_1463 {
 			return 0;
 		}
 		if (d[n] > 0) {
-			System.out.print("test");
 			System.out.println(d[n]);
 			return d[n];
 		}

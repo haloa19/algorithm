@@ -64,8 +64,7 @@ public class TownNumber_2667 {
 					}
 					if (tmp > 1) {
 						num.add(tmp - 1);
-					}
-					else {
+					} else {
 						num.add(tmp);
 					}
 				}

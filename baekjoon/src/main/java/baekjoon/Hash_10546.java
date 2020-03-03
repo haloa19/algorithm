@@ -7,8 +7,6 @@ import java.io.InputStreamReader;
 public class Hash_10546 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		// TODO Auto-generated method stub
-		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		int n = Integer.parseInt(br.readLine());
@@ -29,7 +27,7 @@ public class Hash_10546 {
 						if(runner[j][0].equals(tmp)) {
 							if(runner[j][1] == null) {
 								runner[j][1] = tmp;
-								System.out.println("������ ��� : "+runner[j][1]);
+								System.out.println(runner[j][1]);
 								break exit_a;
 							}
 						}

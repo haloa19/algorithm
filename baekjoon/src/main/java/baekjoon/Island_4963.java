@@ -62,8 +62,7 @@ public class Island_4963 {
 											chk[nx][ny] = true;		
 										}
 									}
-								}
-								
+								}	
 							}							
 							cnt++;
 						}						

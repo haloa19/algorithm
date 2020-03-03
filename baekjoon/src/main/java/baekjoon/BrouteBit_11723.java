@@ -7,7 +7,6 @@ import java.io.InputStreamReader;
 public class BrouteBit_11723 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		// TODO Auto-generated method stub
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 		int n = 20;
 		int m = Integer.valueOf(bf.readLine());

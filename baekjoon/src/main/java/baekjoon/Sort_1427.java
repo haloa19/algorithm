@@ -7,10 +7,9 @@ import java.util.Scanner;
 public class Sort_1427 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		
-		/* ���1. �迭�� ���� */
+		/* 1. 배열 */
 		/*
 		String num = scanner.nextLine();
 		String[] n_array = num.split("");
@@ -32,7 +31,7 @@ public class Sort_1427 {
 		}*/
 		
 		
-		/* ���2. Linkedlist�� ���� */
+		/* 2. Linkedlist */
 		String num = scanner.nextLine();
 		LinkedList<String> n_list = new LinkedList<String>();
 		

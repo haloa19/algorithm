@@ -6,9 +6,7 @@ import java.util.Stack;
 public class Stack_10773 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Scanner scanner = new Scanner(System.in);
-		
+		Scanner scanner = new Scanner(System.in);		
 		Stack<Integer> stack = new Stack<Integer>();
 		int num = scanner.nextInt();
 		int sum = 0;

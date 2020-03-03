@@ -60,7 +60,6 @@ public class GapMax_10819 {
 		
 		do {
 			int sum = maxGap(a);
-			
 			//max = (sum > max) ? sum : max;
 			max = Math.max(max, sum);
 			

@@ -24,7 +24,6 @@ public class Alphabet_10809 {
 		}
 		System.out.println(ans);
 		
-
 	}
 
 }

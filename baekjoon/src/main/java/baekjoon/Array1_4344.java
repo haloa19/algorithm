@@ -5,11 +5,9 @@ import java.util.Scanner;
 public class Array1_4344 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		
-		int c = scanner.nextInt();
-		
+		int c = scanner.nextInt();	
 		
 		for(int i = 0; i < c; i++) {
 			int num = scanner.nextInt();

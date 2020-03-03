@@ -9,8 +9,6 @@ import java.util.StringTokenizer;
 public class Stack_4949 {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
-
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		Stack<String> stack = new Stack<>();
@@ -78,8 +76,9 @@ public class Stack_4949 {
 					}
 					
 				}			
-		
+				
 		}
+		
 	}
 
 }

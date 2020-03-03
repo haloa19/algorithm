@@ -45,8 +45,7 @@ public class DFSBFS_1260 {
 		Scanner scanner = new Scanner(System.in);
 		int n = scanner.nextInt();
 		int m = scanner.nextInt();
-		int start = scanner.nextInt();
-		
+		int start = scanner.nextInt();	
 		a = (ArrayList<Integer>[]) new ArrayList[n + 1];
 		
 		for (int i = 1; i <= n; i++) {
