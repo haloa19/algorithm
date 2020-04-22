@@ -61,7 +61,7 @@ public class Test {
            System.out.println(result);
         }
         else {
-           System.out.println("Error: 실수가 아닙니다!");
+           System.out.println("Error: 실수가 아닙니다!!!!!");
         }
      }
 
