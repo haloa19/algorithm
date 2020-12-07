@@ -21,7 +21,8 @@ public class Greedy_JoyStick {
 
 	public static void main(String[] args) {
 		String name = "JEROEN";
-		JoyStick.Insert(name);
+		//JoyStick.Insert(name);
+		
 		
 
 	}

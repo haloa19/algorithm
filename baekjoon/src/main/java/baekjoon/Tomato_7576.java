@@ -55,6 +55,7 @@ public class Tomato_7576 {
 							farm[nx][ny] = 1;
 							chk[nx][ny] = true;
 						}
+						
 					}
 					
 				}
