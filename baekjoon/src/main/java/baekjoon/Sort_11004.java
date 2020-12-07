@@ -23,16 +23,16 @@ public class Sort_11004 {
 			n_array[i] = Integer.parseInt(st.nextToken());
 		}
 		
-		int mid = n_array[n/2];
+		int mid = n_array[(int) Math.floor(n/2)];
+		System.out.println(mid);
 	
-		for(int i = 0; i < n/2; i++) {
+		for(int i = 0; i < (int) Math.floor(n/2); i++) {
 			if(n_array[i] > mid && n_array[i] > n_array[n-1]) {
 				int tmp = n_array[i];
 				n_array[i] = n_array[i-1];
 				n_array[i-1] = tmp;
 			}
 		}
-		//System.out.println(mid);
 
 		System.out.println(n_array[k-1]);
 	}
